@@ -30,7 +30,7 @@ public class Main {
 
             scanner.nextLine();
         }
-        System.out.println("sum" + sum);
+        System.out.println("sum= " + sum);
         scanner.close();
     }
 }
